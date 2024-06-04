@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-cegna-nodes",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Nodes that are useful to do RPA/automation process.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
